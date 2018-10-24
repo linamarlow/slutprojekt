@@ -1,0 +1,77 @@
+body {
+    font-family: 'futura', helvetica, sans-serif; 
+    background-color: rgb(120, 125, 135);
+}
+
+.home-head {
+    background-image: url(../img/orion.jpeg);
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0; 
+}
+
+.topnav {
+    background-color: rgb(120, 125, 135);
+    width: 100%;
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+}
+
+.topnav ul {
+    padding: 0; 
+    list-style: none; 
+
+}
+
+.topnav ul li {
+    display: inline; 
+    
+}
+
+.topnav ul li a {
+    color: white; 
+    text-decoration: none; 
+    padding: 1em; 
+    margin: 0; 
+}
+
+.topnav ul li a:hover {
+    background-color: white; 
+    color: black; 
+    
+}
+
+.homeboi {
+    margin: 0; 
+    padding-top: 10vh; 
+    padding-left: 2em; 
+    color: white; 
+    
+}
+
+.main-text {
+    margin: 0; 
+    background-color: white; 
+    margin-left: auto; 
+    margin-right: auto;
+    width: 45vw; 
+    padding-right: 2.5vw;
+    padding-left: 2.5vw;  
+
+    
+    
+}
+
+h2 {
+    text-align: center; 
+    padding-bottom: 2em;
+    margin-bottom: 0;  
+}
+
+p {
+    margin-top: 0; 
+    padding-bottom: 8vh; 
+ 
+
+}
